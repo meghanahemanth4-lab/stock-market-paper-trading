@@ -1,0 +1,10 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+paper_trading.db
+*.db
+.pytest_cache/
